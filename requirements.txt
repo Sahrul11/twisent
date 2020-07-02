@@ -102,4 +102,3 @@ traitlets==4.3.2
 tweepy==3.8.0
 tzlocal==2.1
 unicodecsv==0.14.1
-streamlit==0.49.0
