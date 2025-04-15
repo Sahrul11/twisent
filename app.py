@@ -12,7 +12,7 @@ from textblob.np_extractors import ConllExtractor
 import streamlit as st 
 
 
-consumer_key= 'HrzPwaMKMHYoYmheWYONkT9lj'
+consumer_key= 'XXXXXXXXXX'
 consumer_secret= 'QFkYY54uDjYY1X5HMjYHDQbVXcbihNu8qydG9eR1AVJn7NQmcI'
 access_token='860834802689298432-jwoqdMmw2ydXbm53AWMxRCM71jpajeK'
 access_token_secret='vKhASPKJPp3J42HvPA5vHpFpYGY6iBLHyZTpk3HYd4T1c'
